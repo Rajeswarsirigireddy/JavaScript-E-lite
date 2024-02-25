@@ -1,6 +1,6 @@
-⭐JavaScript⭐ console methods allow developers to access the debugging console in web browsers. Developers can improve the application debugging process by using methods to print various messages on the browser console.
+🌙 JavaScript console methods allow developers to access the debugging console in web browsers. Developers can improve the application debugging process by using methods to print various messages on the browser console.
 
-11 Console Methods in JavaScript for Effective Debugging
+⭐ 11 Console Methods in JavaScript for Effective Debugging 👍
 
 
 1. Log method
@@ -160,6 +160,8 @@ Suppose your values are nested objects. The console.table() method labels the ou
         }
 
         console.table (roles);
+
+Powered By ❤️ JSPro Team
 
 
 11. Clear method
