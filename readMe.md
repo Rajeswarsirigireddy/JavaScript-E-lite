@@ -21,7 +21,8 @@
     </li>
     </ol>
     <pre><code> 
-        console.info(&quot;Testing the log info method&quot;)</code></pre>
+        console.info(&quot;Testing the log info method&quot;)
+    </code></pre>
 <ol start="3">
     <li>
     <p>Debug method In JavaScript, the console.log(), console.debug(), and console.info() methods are identical. The only difference is the way the output is visible in the browser console. The browser will define color codes to console method output messages. By default, output from the console.debug() method will not be visible in Chrome developer tools. You have to enable the console filter option for all levels to see the output from the debug method.</p>
