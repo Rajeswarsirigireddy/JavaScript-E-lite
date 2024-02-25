@@ -11,8 +11,7 @@
     <ol>
     <li>
     <p>Log method The console.log() method is the most used JavaScript console method. It helps us to print strings, numbers, JavaScript objects, or variables in the console. In addition, it logs messages to a debugging terminal instead of presenting them in the browser console.</p>
-    <pre><code> var testVariable = 404;
-     console.log(&quot;This is triggered by console.log&quot;)
+    <pre><code> var testVariable = 404;console.log(&quot;This is triggered by console.log&quot;)
      console.log(&quot;checking the variable value&quot;,testVariable)
     </code></pre>
     </li>
