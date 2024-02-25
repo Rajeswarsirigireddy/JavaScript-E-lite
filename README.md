@@ -1,6 +1,6 @@
-JavaScript console methods allow developers to access the debugging console in web browsers. Developers can improve the application debugging process by using methods to print various messages on the browser console.
+JavaScript console methods enable developers to access the debugging console in web browsers. Developers can enhance the application debugging process by utilizing methods to print various messages on the browser console
 
-please check following /JavaScript-E-Lite/Debug 
+__/JavaScript-E-Lite/Debug 
 
 
 Powered By ❤️ JSPro Team
