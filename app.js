@@ -14,7 +14,7 @@ JavaScript console methods allow developers to access the debugging console in w
 
 1. Log method
 The console.log() method is the most used JavaScript console method. It helps us to print strings, numbers, JavaScript objects, or variables in the console. In addition, it logs messages to a debugging terminal instead of presenting them in the browser console.
-
+ 
         var testVariable = 404;
         console.log("This is triggered by console.log")
         console.log("checking the variable value",testVariable)
