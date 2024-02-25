@@ -161,10 +161,9 @@ Suppose your values are nested objects. The console.table() method labels the ou
 
         console.table (roles);
 
-Powered By ❤️ JSPro Team
-
-
 11. Clear method
 The clear() method helps you clean your browser console after all the debugging processes. You can use the console.clear() method before your debugging and at the end of it. It will ensure that no other printed messages are displayed in the console.
 
         console.count(label)
+    
+Powered By ❤️ JSPro Team
